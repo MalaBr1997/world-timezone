@@ -41,8 +41,9 @@
 				<password>Mala2662</password>
 				<muleVersion>4.3.0</muleVersion>
 				</cloudHubDeployement>
-				<classifier>mule-application</classifier>
+				
                 </configuration>
+               
 			</plugin>
 		</plugins>
 	</build>
